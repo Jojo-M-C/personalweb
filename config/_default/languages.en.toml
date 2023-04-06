@@ -18,7 +18,7 @@ dateFormat = "2 January 2006"
   headline = "Welcome to my website"
   bio = "Computer Science Student & Entrepreneur"
    links = [
-     { link = "https://nunocoracao.github.io/blowfish/" },
-     { github = "https://github.com/nunocoracao/blowfish" },
-     { twitter = "https://twitter.com/burufugu" }
+     { github = "https://github.com/Jojo-M-C" },
+     { linkedin = "https://www.linkedin.com/in/johanna-m-christoph-039b94177/" },
+     { instagram = "https://www.instagram.com/jojo_m_chr/" }
    ]

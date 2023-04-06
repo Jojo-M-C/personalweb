@@ -42,8 +42,8 @@
   weight = 4
 
 [[social]]
-  identifier = "web"
-  pre = "link"
+  identifier = "linkedin"
+  pre = "linkedin"
   url = "https://nunocoracao.github.io/blowfish/"
   weight = 40
 
