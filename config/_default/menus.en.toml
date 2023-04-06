@@ -17,13 +17,13 @@
 [[main]]
   name = "Articles"
   parent = "Parent"
-  pageRef = "samples"
+  pageRef = "posts"
   weight = 20
 
 [[main]]
   name = "Interviews"
   parent = "Parent"
-  pageRef = "samples"
+  pageRef = "interviews"
   weight = 20
 
 [[main]]
