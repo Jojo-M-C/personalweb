@@ -17,9 +17,12 @@ showAuthor: false
 
 ---
 
-## Hello World 
+```Inspiring quote```
 
-## About me
+## Why start a blog? 
 
-## What's the purpose of this website? 
+## Goal
+
+## Want to contribute? 
+
 
