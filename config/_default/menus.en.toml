@@ -41,19 +41,19 @@
   pageRef = "tags"
   weight = 4
 
-[[main]]
+[[social]]
   identifier = "web"
   pre = "link"
   url = "https://nunocoracao.github.io/blowfish/"
   weight = 40
 
-[[main]]
+[[social]]
   identifier = "github"
   pre = "github"
   url = "https://github.com/nunocoracao/blowfish"
   weight = 50
 
-[[main]]
+[[social]]
   identifier = "twitter"
   pre = "twitter"
   url = "https://twitter.com/burufugu"
