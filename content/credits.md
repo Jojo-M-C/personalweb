@@ -17,12 +17,6 @@ showAuthor: false
 
 ---
 
-## Theme 
-
-Fork of <a href="https://github.com/nunocoracao/blowfish">Blowfish</a> 
-
-## Images 
-
-Hero: <a href="https://www.freepik.com/free-photo/abstract-geometric-wavy-folds-background_27040125.htm#page=2&query=calm%20futuristic&position=46&from_view=search&track=ais">Image by kjpargeter</a> on Freepik
+Hero image: <a href="https://www.freepik.com/free-photo/abstract-geometric-wavy-folds-background_27040125.htm#page=2&query=calm%20futuristic&position=46&from_view=search&track=ais">Image by kjpargeter</a> on Freepik
 <br/>
 Article & interview images generated with Midjourney
