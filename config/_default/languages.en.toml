@@ -16,9 +16,8 @@ dateFormat = "2 January 2006"
   name = "Johanna M. Christoph"
   image = "img/avata.png"
   headline = "Welcome to my personal website"
-  bio = "Computer Science Student & Entrepreneur"
+  bio = "Computer Science Student"
    links = [
-     { github = "https://github.com/Jojo-M-C" },
      { linkedin = "https://www.linkedin.com/in/johanna-m-christoph-039b94177/" },
      { instagram = "https://www.instagram.com/jojo_m_chr/" }
    ]
