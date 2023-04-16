@@ -15,6 +15,12 @@
   weight = 2
 
 [[main]]
+  name = "All Posts"
+  parent = "Posts"
+  pageRef = "all-posts"
+  weight = 20
+
+[[main]]
   name = "Articles"
   parent = "Posts"
   pageRef = "posts"
