@@ -17,12 +17,13 @@ showAuthor: false
 
 ---
 
-```Inspiring quote```
+```Awesome quote ```
+
+## Hi, this is me
 
 ## Why start a blog? 
 
 ## Goal
 
-## Want to contribute? 
 
 
