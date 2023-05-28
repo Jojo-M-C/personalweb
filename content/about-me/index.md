@@ -17,7 +17,7 @@ showAuthor: false
 
 ---
 
-Hi 👋, my name is Johanna Christoph, I’m a Computer Science Student from Austria working on achieving my Impossible List [Link]. 
+Hi 👋, my name is Johanna Christoph, I’m a Computer Science Student from Austria working on achieving my <a href="/impossible-list">Impossible List</a>. 
 
 <img class="thumbnailshadow" src="img/temp.png"/>
 

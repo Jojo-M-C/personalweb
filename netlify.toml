@@ -8,6 +8,10 @@
   NODE_ENV = "production"
   GO_VERSION = "1.16"
   TZ = "UTC"  # Set to preferred timezone
+  NETLIFY_EMAILS_PROVIDER	= "sendgrid"
+  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
+  
+
 
 [context.production.environment]
   HUGO_VERSION = "0.104.1"
@@ -15,3 +19,6 @@
 
 [context.deploy-preview.environment]
   HUGO_VERSION = "0.104.1"
+
+[[plugins]]
+  package = "@netlify/plugin-emails"
