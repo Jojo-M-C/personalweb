@@ -21,6 +21,7 @@ Bucket lists are pointless, if you never get around to realizing them. That’s 
 
 ## Entrepreneurship
 
+- Make 10k profit with a project 
 - Make 25k profit with a project 
 - Make 50k profit  with a project 
 - Make 100k profit with a project 
