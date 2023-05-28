@@ -17,8 +17,6 @@ showAuthor: false
 
 ---
 
-Contacting me is pretty easy, just drop me a message on <a href="https://www.linkedin.com/in/johanna-m-christoph-039b94177/">LinkedIn</a> or me@johannachristoph.com
-
-I can sometimes be a bit slow with responding, please be patient :)
+I'm pretty easy to reach. Just drop me a message on <a href="https://www.linkedin.com/in/johanna-m-christoph-039b94177/">LinkedIn</a> or write an E-Mail to me@johannachristoph.com. 
 
 
