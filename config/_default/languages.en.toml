@@ -6,7 +6,7 @@ weight = 1
 rtl = false
 
 title = "Johanna M. Christoph"
-# logo = "img/.png"
+# logo = "img/johanna.jp"
 description = "My awesome website"
 # copyright = "Copy, _right?_ :thinking_face:"
 
@@ -14,10 +14,12 @@ dateFormat = "2 January 2006"
 
 [author]
   name = "Johanna M. Christoph"
-  image = "img/avata.png"
+  image = "img/bigpixelme.png"
   headline = "Welcome to my personal website"
   bio = "Computer Science Student"
    links = [
      { linkedin = "https://www.linkedin.com/in/johanna-m-christoph-039b94177/" },
-     { instagram = "https://www.instagram.com/jojo_m_chr/" }
+     { instagram = "https://www.instagram.com/jojo_christoph/" },
+     { twitter = "https://twitter.com/JojoChristoph" }
+     
    ]
