@@ -17,6 +17,4 @@ showAuthor: false
 
 ---
 
-Hero image: <a href="https://www.freepik.com/free-photo/abstract-geometric-wavy-folds-background_27040125.htm#page=2&query=calm%20futuristic&position=46&from_view=search&track=ais">Image by kjpargeter</a> on Freepik
-<br/>
-Article & interview images generated with Midjourney
+Article & Interview images are generated with Midjourney and/or DALL-E2
