@@ -15,7 +15,7 @@ dateFormat = "2 January 2006"
 [author]
   name = "Johanna M. Christoph"
   image = "img/bigpixelme.png"
-  headline = "Welcome to my personal website"
+  headline = "I write about interesting stuff"
   bio = "Computer Science Student"
    links = [
      { linkedin = "https://www.linkedin.com/in/johanna-m-christoph-039b94177/" },
