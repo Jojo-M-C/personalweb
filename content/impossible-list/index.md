@@ -17,19 +17,11 @@ showAuthor: false
 
 ---
 
-Bucket lists are pointless, if you never get around to realizing them. That’s why the impossible list emphasizes the active pursuit and realization of smaller goals, ensuring that they are not mere idle wishes but become tangible accomplishments.
+Bucket lists are pointless, if you never get around to realizing them. That’s why the impossible list emphasizes the active pursuit of smaller goals, ensuring that they are not mere idle wishes but become tangible accomplishments.
 
 ## Entrepreneurship
 
-- Make 10k profit with a project 
-- Make 25k profit with a project 
-- Make 50k profit  with a project 
-- Make 100k profit with a project 
-- Exit a Startup
-- Write 100 Articles 
-- Conduct 100 Interviews
-- Build Newsletter with 10k+ subscribers 
-- Give a TedTalk 
+XXX
 
 ## Work Portfolio 
 
