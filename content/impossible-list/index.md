@@ -32,18 +32,12 @@ Bucket lists are pointless, if you never get around to realizing them. That’s 
 - Give a TedTalk 
 
 ## Work Portfolio 
-I’m a person with very broad interests, ranging from journalism, coding to investment banking. That’s why I’ve set myself the goal to work for and with a range of different businesses to gather more practical experience in all of these fields. 
 
-- Journalism: <s>My own blog</s> (started 28.5.2023), Brutkasten --> exploring the inner workings of journalism
-- VCs: Intern for 3-6 months for either Speedinvest, i5invest, Mezzanine Management, Apex Ventures or others --> How do VCs work from the inside? How are investment decisions made in the real world? 
-- Frontend Dev: goal employers to be added 
-- Backend Dev: goal employers to be added 
-- Marketing: goal employers to be added 
-- Sales: <s>Wilhelm Jungmann & Neffe</s> (1.2.2022 - 31.12.2022)
+XXX
  
 ## Education 
 
-- Get a bachelor's degree in Computer Science
+- Get a bachelor's degree in Computer Science & Business 
 - Read & Document 100 books 
 
 ## Languages 
@@ -53,10 +47,7 @@ I’m a person with very broad interests, ranging from journalism, coding to inv
 
 ## Tech 
 
-- 100 Leetcode problems in Python 
-- 100 Leetcode problems in JavaScript 
-- Do the OffSec PEN-200 course
-- Learn how to 3d model in Blender 
+XXX
 
 ## Habits 
 
@@ -82,6 +73,7 @@ I’m a person with very broad interests, ranging from journalism, coding to inv
 - Live on a beach in some tropical region for 1 month
 - Make a time-lapse of the northern lights 
 - Photograph the milky way galaxy on top of a mountain 
+- XXX
 
 ## Licences to get 
 
