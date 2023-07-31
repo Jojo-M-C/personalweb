@@ -30,5 +30,5 @@ One of the perks of being involved in the startup ecosystem is the opportunity t
 
 ## Articles 
 
-In addition to that, I am also venturing into the realm of blogging, where I delve into a myriad of captivating topics, developments, tools, and more that I encounter in my daily life and find intriguing. The purpose is to create a space where I can chronicle and share my explorations, insights, observations, and progress without the burden of striving for perfection. I might get things wrong at times, great, tell me and let’s have this be a <a href="/contact">conversation starter</a>. 
+In addition to that, I am also venturing into the world of blogging, where I drive into a myriad of captivating topics, developments, tools, and more that I encounter in my daily life and find intriguing. The purpose is to create a space where I can chronicle and share my explorations, insights, observations, and progress without the burden of striving for perfection. I might get things wrong at times, great, tell me and let’s have this be a <a href="/contact">conversation starter</a>. 
 
