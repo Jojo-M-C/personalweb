@@ -74,8 +74,3 @@
    name = "Privacy"
    pageRef = "privacy"
    weight = 10
-
- [[footer]]
-   name = "Credits"
-   pageRef = "credits"
-   weight = 10
