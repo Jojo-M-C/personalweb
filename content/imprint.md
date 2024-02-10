@@ -25,6 +25,3 @@ Johanna M. Christoph <br/>
 
 ### Contact 
 me@johannachristoph.com <br/>
-
-### Liability 
-I am constantly improving the content of this website and always try to provide correct and up-to-date information. Unfortunately, I cannot assume any liability for the correctness of all content on this website, especially for linked websites and those provided by third parties. If you notice any problematic or incorrect content, please contact me.
