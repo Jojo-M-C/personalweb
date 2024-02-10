@@ -17,5 +17,4 @@ showAuthor: false
 
 ---
 
-Article & Interview images are generated with Midjourney and/or DALL-E2
 Theme: <a href="https://blowfish.page/">Blowfish</a>. 

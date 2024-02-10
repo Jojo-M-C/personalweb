@@ -27,12 +27,6 @@
   weight = 20
 
 [[main]]
-  name = "Interviews"
-  parent = "Posts"
-  pageRef = "interviews"
-  weight = 20
-
-[[main]]
   name = "About"
   pageRef = "about-me"
   weight = 1
